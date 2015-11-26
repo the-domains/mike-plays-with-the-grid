@@ -1,7 +1,7 @@
 name: Mike Plays with The Grid
 favicon: null
-layout_spectrum: 0.20952405384741724
-typography_spectrum: 0.6166136187966913
+layout_spectrum: 0.36309
+typography_spectrum: 0.37732
 title: Curated items from the world of Mike
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#99c9e9'
+    - '#ff0045'
+    - '#ffc400'
+    - '#18232b'
+    - '#ff78b2'
   brandStrength: 0.6211847998201847
-  lightness: 0.3818987784907222
+  lightness: 0.3125
   saturation: 0.14160993765108287
-  rhythmicContrast: 0.10392469936050475
+  rhythmicContrast: 0.25
 purpose: []
