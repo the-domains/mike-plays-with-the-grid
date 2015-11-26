@@ -4,8 +4,15 @@
         <description><![CDATA[Mike Plays with The Grid]]></description>
         <link>https://thegrid.ai/mike-plays-with-the-grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 Nov 2015 14:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2015 14:15:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mike-plays-with-the-grid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Open Source does not promise quality, quantity, or reliability. It does provide the ability to see under the hood of what might be a lemon.</p>]]></description>
+            <link>https://twitter.com/mikefiedler/status/614265151659864064</link>
+            <guid isPermaLink="false">ad71c169-1d3e-4662-9070-5057535ccce5</guid>
+            <pubDate>Thu, 26 Nov 2015 14:14:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="Hope we get a good view&period;" src="https://pbs.twimg.com/media/CJGhmyJWEAAH2RK.jpg:large">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img alt="Fancy coffee with so many &num;ChefFriends &commat;mikefiedler &commat;fnichol &commat;OnlyHaveCans &commat;mengesb" src="https://pbs.twimg.com/media/CRdIFwzUwAEL8ux.jpg:large">]]></description>
             <link>https://twitter.com/martinisoft/status/655071537544826880</link>
             <guid isPermaLink="false">8c708cbe-dae2-4ec0-a1dc-d3f97b8800d3</guid>
-            <pubDate>Thu, 26 Nov 2015 13:58:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>It definitely feels odd when your vendor calls _you_ to chat, when you're used to calling your vendor.</p>]]></description>
-            <link>https://twitter.com/mikefiedler/status/656649893570711552</link>
-            <guid isPermaLink="false">f00cbcb5-758f-4539-b6a4-9c4162e1c42f</guid>
             <pubDate>Thu, 26 Nov 2015 13:58:54 GMT</pubDate>
         </item>
     </channel>
