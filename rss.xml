@@ -4,8 +4,15 @@
         <description><![CDATA[Mike Plays with The Grid]]></description>
         <link>https://thegrid.ai/mike-plays-with-the-grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 Nov 2015 14:08:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2015 14:08:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mike-plays-with-the-grid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Someone called me a DevOps thought leader tonight. I think they were serious. #scared</p>]]></description>
+            <link>https://twitter.com/mikefiedler/status/627340394049581056</link>
+            <guid isPermaLink="false">0330ea66-4477-407f-b19e-de912a22f370</guid>
+            <pubDate>Thu, 26 Nov 2015 14:06:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>It's all about the page cache.</p>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<p>When will the @TSA re-categorize "water" as a "medically-required liquid"? I promise that without it, we all die.</p>]]></description>
             <link>https://twitter.com/mikefiedler/status/652591632362049536</link>
             <guid isPermaLink="false">59d2bc68-4398-42bb-a46d-2d9cfc214c4d</guid>
-            <pubDate>Thu, 26 Nov 2015 13:58:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Today I received a recruiter email for a job. THAT I USED TO HAVE. #RecruiterFail</p>]]></description>
-            <link>https://twitter.com/mikefiedler/status/643893082463862784</link>
-            <guid isPermaLink="false">cfaca368-750d-42d1-9d0e-300dd619e0b9</guid>
             <pubDate>Thu, 26 Nov 2015 13:58:54 GMT</pubDate>
         </item>
     </channel>
