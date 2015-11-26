@@ -4,8 +4,22 @@
         <description><![CDATA[Mike Plays with The Grid]]></description>
         <link>https://thegrid.ai/mike-plays-with-the-grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 Nov 2015 13:59:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2015 13:59:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mike-plays-with-the-grid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>OH: English is stupid. Inflammable opossum is the same as flammable possum.</p>]]></description>
+            <link>https://twitter.com/mikefiedler/status/650526688946712576</link>
+            <guid isPermaLink="false">7ce19cd8-6b1b-4fc7-8479-8072da837c6b</guid>
+            <pubDate>Thu, 26 Nov 2015 13:58:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="About to watch some Die Hard&comma; with &commat;brett&lowbar;langdon &excl; &num;SyfyMWAV" src="https://pbs.twimg.com/media/CNdCfeTWwAAM3sL.jpg:large">]]></description>
+            <link>https://twitter.com/mikefiedler/status/637050986398400514</link>
+            <guid isPermaLink="false">e7731cea-6f27-4ca2-bc52-9a0355b62e33</guid>
+            <pubDate>Thu, 26 Nov 2015 13:58:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="Outdoor movies ftw&period;" src="https://pbs.twimg.com/media/CMaBEenU8AAISDY.jpg:large">]]></description>
@@ -61,20 +75,6 @@
             <link>https://twitter.com/mikefiedler/status/664831873458282496</link>
             <guid isPermaLink="false">92636d71-080c-403a-9783-2aedea9aad1e</guid>
             <pubDate>Thu, 26 Nov 2015 13:53:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>How about we drop the qualifier of 'micro' and write services? Services that find and speak to each other? Like B2B but better. #DevOps</p>]]></description>
-            <link>https://twitter.com/mikefiedler/status/667142215043563520</link>
-            <guid isPermaLink="false">6dcfe5f8-0ab5-4e7e-83a6-b2cc27043c88</guid>
-            <pubDate>Thu, 26 Nov 2015 13:53:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>I want to work with people who have an undying inquisitive nature to discover and understand how things work, and improve on them. #DevOps</p>]]></description>
-            <link>https://twitter.com/mikefiedler/status/663841658379874308</link>
-            <guid isPermaLink="false">10ebde4b-dc77-4ba7-b6c7-92fa8d2aa650</guid>
-            <pubDate>Thu, 26 Nov 2015 13:49:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
