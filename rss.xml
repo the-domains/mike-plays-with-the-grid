@@ -4,8 +4,15 @@
         <description><![CDATA[Curated items from the world of Mike]]></description>
         <link>https://thegrid.ai/mike-plays-with-the-grid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 03:08:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Dec 2015 03:08:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mike-plays-with-the-grid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="&commat;datadoghq&apos;s &commat;mikefiedler presenting &quot;Why Visibility into your Stack Matters&quot; at &commat;AWSSummits NYC" src="https://pbs.twimg.com/media/CJf075kWoAEttEh.jpg:large">]]></description>
+            <link>https://twitter.com/datadoghq/status/619232784100552704</link>
+            <guid isPermaLink="false">31d97736-0253-43f4-884a-c03d6f39a47e</guid>
+            <pubDate>Thu, 24 Dec 2015 03:07:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Writing code is the best procrastination technique. How do you handle: "I don't want to clean my room, I'm writing code!" Asking for self.</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/mikefiedler/status/618093629442236416</link>
             <guid isPermaLink="false">52bc92a6-61b5-4049-b115-29b836e278f8</guid>
             <pubDate>Thu, 26 Nov 2015 14:06:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="A couple of thought leaders&quest; &commat;bridgetkromhout and I got to chat at the &commat;AWSreInvent &commat;datadoghq booth&excl;" src="https://pbs.twimg.com/media/CQ1oPodU8AAMPQ4.jpg:large">]]></description>
-            <link>https://twitter.com/mikefiedler/status/652292142417747968</link>
-            <guid isPermaLink="false">1cb79e82-3f59-448a-9b21-eb6c91934183</guid>
-            <pubDate>Thu, 26 Nov 2015 13:58:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
